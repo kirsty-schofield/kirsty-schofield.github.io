@@ -18,7 +18,7 @@ email: 'kirsty_schofield_1@hotmail.com'
 description: "I'm a Computational Linguist with a passion for all things content + tech."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://kirsty-schofield.github.io/" # the base hostname & protocol for your site, e.g. https://example.com
-github_username: 'kirsty-schofield'
+github_username: 'kirsty-schofield' 
 
 # Build settings
 markdown: kramdown
