@@ -1,3 +1,8 @@
+---
+layout: inner
+title: About
+permalink: /about/
+---
 # About Me
 
 ## Bridging the Gap Between Human Language and Machine Intelligence
