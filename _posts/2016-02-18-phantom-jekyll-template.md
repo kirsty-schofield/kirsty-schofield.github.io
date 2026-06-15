@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: left
-title: 'Phantom'
-date: 2016-02-20 21:15:00
+title: 'Banking Chatbot'
+date: 2026-02-20 21:15:00
 categories: development design
-tags: Jekyll Sass Bootstrap
+tags: Content UX Design
 featured_image: '/img/posts/04_phantom-jekyll-1130x864-2x.png'
-project_link: 'https://github.com/jamigibbs'
-button_icon: 'flask'
+project_link: 'https://github.com/kirsty-schofield/dialogflow-concept'
+button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: "A minimalist Jekyll theme that you're looking at it right now"
+lead_text: "A conversation design flow proof of concept."
 ---
