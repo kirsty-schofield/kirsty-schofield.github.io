@@ -5,7 +5,9 @@ permalink: /about/
 ---
 # About Me
 
+
 ## Bridging the Gap Between Human Language and Machine Intelligence
+
 
 I’m a Computational Linguist and Content Specialist, with over 12 years of experience architecting content ecosystems. I bridge the gap between how people naturally speak and how machines process information.
 
@@ -15,7 +17,6 @@ I started out in the digital marketing and editorial spaces; refining brand voic
 
 Through my MSc, I learned to build Python preprocessing pipelines, leverage corpus linguistics, and develop advanced AI prototypes. Today, I use this hybrid toolkit to build smarter, more human-centric digital experiences.
 
-### Key Skills
 
 -	Python (Pandas, SpaCy, NumPy)
 -	SQL
