@@ -3,6 +3,7 @@ layout: inner
 title: About
 permalink: /about/
 ---
+
 # About Me
 
 
@@ -18,10 +19,13 @@ I started out in the digital marketing and editorial spaces; refining brand voic
 Through my MSc, I learned to build Python preprocessing pipelines, leverage corpus linguistics, and develop advanced AI prototypes. Today, I use this hybrid toolkit to build smarter, more human-centric digital experiences.
 
 
+My key skills include:
+
 -	Python (Pandas, SpaCy, NumPy)
 -	SQL
 -	Discourse Analysis, Tokenisation and Sentiment Analysis
 -	Dialogflow CX
 -	Prompt Optimisation, LLM Evaluation, Quality Frameworks
+
 
 Please feel free to reach out at kirsty_schofield_1@hotmail.com. 
