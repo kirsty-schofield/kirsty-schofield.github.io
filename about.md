@@ -16,7 +16,7 @@ What makes my approach unique is my dual background. I hold an MA in Linguistics
 
 I started out in the digital marketing and editorial spaces; refining brand voices, optimising conversion paths, and managing content portfolios for brands like Artemis Marketing and INTO University Partnerships.  
 
-Through my MSc, I learned to build Python preprocessing pipelines, leverage corpus linguistics, and develop advanced AI prototypes. Today, I use this hybrid toolkit to build smarter, more human-centric digital experiences.
+Through my MSc, I learned to build Python preprocessing pipelines, explore corpus linguistics, and develop advanced AI prototypes. Now,I use this hybrid toolkit to build smarter, more human-centric digital experiences.
 
 
 My key skills include:
