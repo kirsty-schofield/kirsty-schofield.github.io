@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: left
+position: right
 title: 'LangChain RAG Model'
 date: 2026-06-16 21:15:00
 categories: development 
