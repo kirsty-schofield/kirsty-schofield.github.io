@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: left
-title: 'Banking Chatbot'
-date: 2026-02-20 21:15:00
-categories: Content 
-tags: Dialogflow UX 
-featured_image: '/img/posts/dialogflow_thumbnail.png'
+title: 'LangChain RAG Model'
+date: 2026-06-16 21:15:00
+categories: development 
+tags: LangChain Python 
+featured_image: '/img/posts/rag-thumbnail.png'
 project_link: 'https://github.com/kirsty-schofield/dialogflow-concept'
 button_icon: 'github'
 button_text: 'Visit Project'
-lead_text: "A conversation design flow proof of concept."
+lead_text: "A RAG-powered chatbot made with LangChain and Chroma."
 ---
