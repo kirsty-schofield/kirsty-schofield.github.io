@@ -6,7 +6,7 @@ date: 2026-06-16 21:15:00
 categories: development 
 tags: LangChain Python 
 featured_image: '/img/posts/rag-thumbnail.png'
-project_link: 'https://github.com/kirsty-schofield/dialogflow-concept'
+project_link: 'https://github.com/kirsty-schofield/rag-model'
 button_icon: 'github'
 button_text: 'Visit Project'
 lead_text: "A RAG-powered chatbot made with LangChain and Chroma."
