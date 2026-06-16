@@ -4,4 +4,42 @@ pagination:
   enabled: true
 ---
 
-<!-- BLANK -->
+<div id="main">
+  <div class="inner">
+    <header>
+      <h1>Welcome to My Site</h1>
+      <p>This is my awesome Phantom-themed Jekyll site.</p>
+    </header>
+    
+    <section class="tiles">
+      {% for post in paginator.posts %}
+        <article class="style1">
+          <span class="image">
+            <img src="{{ post.image | relative_url }}" alt="" />
+          </span>
+          <a href="{{ post.url | relative_url }}">
+            <h2>{{ post.title }}</h2>
+            <div class="content">
+              <p>{{ post.excerpt | strip_html | truncatewords: 15 }}</p>
+            </div>
+          </a>
+        </article>
+      {% endfor %}
+    </section>
+
+    {% if paginator.total_pages > 1 %}
+      <nav class="pagination" style="margin-top: 2em; text-align: center;">
+        {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path | relative_url }}" class="button small">&laquo; Prev</a>
+        {% endif %}
+        
+        <span>Page {{ paginator.page }} of {{ paginator.total_pages }}</span>
+        
+        {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path | relative_url }}" class="button small">Next &raquo;</a>
+        {% endif %}
+      </nav>
+    {% endif %}
+
+  </div>
+</div>
