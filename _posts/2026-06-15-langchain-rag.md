@@ -1,8 +1,8 @@
 ---
-layout: inner
+layout: post
 position: right
 title: 'LangChain RAG Model'
-date: 2026-06-16 21:15:00
+date: 2026-06-16 09:00:00
 categories: development 
 tags: LangChain Python 
 featured_image: '/img/posts/rag-thumbnail.png'
