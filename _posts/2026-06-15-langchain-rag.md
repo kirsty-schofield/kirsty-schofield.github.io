@@ -3,7 +3,7 @@ layout: inner
 position: left
 title: 'LangChain RAG Model'
 date: 2026-06-16 09:00:00
-categories: development 
+categories: Development 
 tags: LangChain Python 
 featured_image: '/img/posts/RAG-thumbnail.png'
 project_link: 'https://github.com/kirsty-schofield/rag-model'
