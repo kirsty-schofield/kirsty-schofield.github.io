@@ -1,13 +1,13 @@
 ---
 layout: inner
 position: right
-title: 'Rescue Themes'
-date: 2016-02-20 15:56:00
-categories: development design
-tags: WordPress PHP Sass
+title: 'RAG Chatbot'
+date: 2026-06-16 15:56:00
+categories: development 
+tags: Python Chroma LangChain
 featured_image: '/img/posts/03_rescue-themes-1130x864-2x.png'
-project_link: 'https://rescuethemes.com'
-button_text: 'Visit Rescue Themes'
-button_icon: 'wordpress'
-lead_text: 'Designed and developed all WordPress themes'
+project_link: 'https://github.com/kirsty-schofield/rag-model'
+button_text: 'Visit Project'
+button_icon: 'Github'
+lead_text: 'A RAG-powered chatbot.'
 ---
