@@ -1,6 +1,6 @@
 ---
 layout: inner
-position: right
+position: left
 title: 'Banking Chatbot'
 date: 2026-02-20 21:15:00
 categories: Content 
